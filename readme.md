@@ -1,7 +1,7 @@
 ## Holder PCB for nice!nano
 
 ### nice!nano v2 holder PCB for Bastard Keyboards Charybdis
-### WARNING: The PCBs have been validated, they are confirmed to be working, but small changes have been made since the original batch was ordered; there might be discrepancies between the schematic and PCB, use at your own risk and go over the files before ordering any prototypes.
+### WARNING: The PCBs have not been printed and tested yet, use at your own risk and go over the files before ordering any prototypes.
 
 ![nice!nano v2 holder](pics/3.jpg)
 
@@ -10,6 +10,7 @@
 - spi trackball connection moved to high frequency pins
 - removed rgb and serial connection
 - repositioned reset footprint
+- replaced and repositioned on/off
 - ph2 battery connector
 
 ## Forks
