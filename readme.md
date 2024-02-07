@@ -3,7 +3,7 @@
 ### nice!nano v2 holder PCB for Bastard Keyboards Charybdis
 ### WARNING: The PCBs have not been printed and tested yet, use at your own risk and go over the files before ordering any prototypes.
 
-![nice!nano v2 holder](pics/3.jpg)
+![nice!nano v2 holder](pics/IMG_20240208_082209_Original.jpeg)
 
 ### Features:
 - matrix pinout moved to low frequency pins
